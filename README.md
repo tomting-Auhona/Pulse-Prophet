@@ -8,7 +8,7 @@ Pulse Prophet aims to revolutionize health management by providing a comprehensi
 
 ![image](https://github.com/tomting-Auhona/Pulse-Prophet/assets/117756328/9abd989c-57ef-4fed-bdc0-50460dc41b27)
 
-# 42 Disease Prediction page
+# 42 Diseases Prediction page
 
 ![image](https://github.com/tomting-Auhona/Pulse-Prophet/assets/117756328/7d6c58fd-d362-47b6-910d-d2c712c8b0ae)
 
