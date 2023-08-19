@@ -4,16 +4,20 @@ Introducing Pulse Prophet: Your Health Guardian Pulse Prophet is your all-in-one
 # Project Objective: 
 Pulse Prophet aims to revolutionize health management by providing a comprehensive platform for disease prediction, malaria detection, and timely updates on science, technology, and health news. The goal is to empower users to proactively monitor their well-being and stay informed about the latest advancements.
 
-Home page 
+# Home page 
+
 ![image](https://github.com/tomting-Auhona/Pulse-Prophet/assets/117756328/9abd989c-57ef-4fed-bdc0-50460dc41b27)
 
-42 Disease Prediction page
+# 42 Disease Prediction page
+
 ![image](https://github.com/tomting-Auhona/Pulse-Prophet/assets/117756328/7d6c58fd-d362-47b6-910d-d2c712c8b0ae)
 
-Malaria Cell Detection page
+# Malaria Cell Detection page
+
 ![image](https://github.com/tomting-Auhona/Pulse-Prophet/assets/117756328/88bc9387-2359-45d9-86df-e64358e43050)
 
-Latest Health Articles & News Page
+# Latest Health Articles & News Page
+
 ![image](https://github.com/tomting-Auhona/Pulse-Prophet/assets/117756328/c76281a1-f89e-4e92-a20a-9e2528927b9c)
 
 # Description and Functionality: 
