@@ -1,8 +1,6 @@
-pandas 
 sklearn 
 keras 
 os
-numpy 
 cv2 
 gnewsclient 
 PIL 
