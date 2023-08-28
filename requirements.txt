@@ -2,7 +2,6 @@ pandas
 sklearn 
 keras 
 os
-streamlit 
 numpy 
 cv2 
 gnewsclient 
