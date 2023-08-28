@@ -1,6 +1,5 @@
 scikit-learn
 keras 
-os
 cv2 
 gnewsclient 
 PIL 
