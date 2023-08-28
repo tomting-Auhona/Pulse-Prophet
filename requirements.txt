@@ -8,5 +8,4 @@ numpy
 cv2 
 gnewsclient 
 PIL 
-base 64 
 bytes10 
