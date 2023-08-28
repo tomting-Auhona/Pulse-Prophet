@@ -1,6 +1,5 @@
 pandas 
 sklearn 
-pickle 
 keras 
 os
 streamlit 
