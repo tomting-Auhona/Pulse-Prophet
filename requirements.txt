@@ -1,5 +1,13 @@
-scikit-learn
-keras 
-gnewsclient 
-PIL 
-bytes10 
+# Libraries needed
+Pandas (cleaning the datset and doing EDA)
+Sklearn (For label encoding, train_test_split, random forest, naïve bayes and svm models)
+Pickle (to save the models in the .pkl format)
+Keras (to import Conv2D, MaxPool2D, Dropout, Flatten, Dense, Sequential, ImageDataGenerator and EarlyStopping)
+Os (get proper paths and directories)
+Streamlit ( to make the fronted and GUI)
+Numpy (preprocess images)
+Cv2 (image recognition)
+Gnewsclient (to get news and latest articles from google)
+PIL (image processing)
+Base 64 (This module provides functions for encoding binary data to printable ASCII characters)
+Bytes10 (Python byte () function converts an object to an immutable byte-represented object of a given size and data.)
