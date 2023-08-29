@@ -1,4 +1,5 @@
 # Import necessary libraries
+# This is another way to predict 42 diseases
 import base64
 from io import BytesIO
 import streamlit as st
